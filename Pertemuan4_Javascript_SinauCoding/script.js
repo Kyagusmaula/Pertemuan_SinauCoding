@@ -1,5 +1,4 @@
 var totalBus = 10;
-var busOperations = 6;
 var busNumber = 1;
 
 for(busNumber = 1; busNumber <= totalBus; busNumber++) {
